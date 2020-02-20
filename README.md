@@ -15,6 +15,6 @@
    addons\DyCE\functions\fn_spawnConvoyAI.sqf
    After line № 151 
    Insert a new line:
-   _newUnit addEventHandler ["killed", "[_this select 0, _this select 1] execVM 'Convoy\DyCE\code\DyCE_respect_killedBots.sqf'"];
+   _newUnit addEventHandler ["killed", "[_this select 0, _this select 1] execVM 'addons\DyCE\code\DyCE_respect_killedBots.sqf'"];
    
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
