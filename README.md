@@ -1,6 +1,8 @@
                                 Gaining Respect to a Player for Killing DyCE For servers EXILE. V 1.2
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-1. Put it along the way:
+1. File:
+   DyCE_respect_killedBots.sqf
+   Put it along the way:
    addons\DyCE\code\DyCE_respect_killedBots.sqf
    
 2. File:
